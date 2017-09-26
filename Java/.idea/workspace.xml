@@ -26,11 +26,9 @@
       <file leaf-file-name="DiagonalDifference.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DiagonalDifference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31010452">
-              <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#1595#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.2682927">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -583,12 +581,12 @@
       <created>1506445724240</created>
       <option name="number" value="Default" />
       <updated>1506445724240</updated>
-      <workItem from="1506445729333" duration="2155000" />
+      <workItem from="1506445729333" duration="2203000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2155000" />
+    <option name="totallyTimeSpent" value="2203000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="976" height="1038" extended-state="0" />
@@ -633,11 +631,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/DiagonalDifference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31010452">
-          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#1595#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.2682927">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
