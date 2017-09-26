@@ -55,6 +55,11 @@ dkms.conf
 
 # Java Code ------------------------------
 
+# IDE stuff
+Java/.idea
+Java/out
+
+
 # Compiled class file
 *.class
 
